@@ -1,6 +1,6 @@
 *{
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
 }
 .header{
     background-color: #554D3B;
@@ -76,7 +76,7 @@
     z-index: 99999;
   }
 .para{
-    margin-top: 20%;
+    margin-top: 8%;
     width: 65%;
     margin-left: 20%;
     text-align: center;
@@ -207,12 +207,12 @@
         width: 50%;
         height: 80px;
         justify-content: center;
-        margin-top: 20%; 
+        margin-top: 5%; 
     }
     .container{
        display: block;
        margin-left: 40%;
-       margin-top: 18%;
+       margin-top: 28%;
     }
     .container1{
         display: block;
@@ -228,7 +228,10 @@
             margin-left: 1%;
             font-family: Segoe UI , sans-serif;
             color: #707070;
-            margin-top:10% ;
+            margin-top:5% ;
+    }
+    .h{
+        margin-top: -3%;
     }
     .immg{
         display: none;
@@ -238,8 +241,9 @@
        width: 100%;
 
     }
+    
     .monimos{
-        margin-left: 2%;
+        margin-left: 11%;
     }
     .phone{
         display: none;
